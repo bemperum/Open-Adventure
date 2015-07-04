@@ -1,0 +1,79 @@
+Pocket Quest v.1.48 DE
+Open Adventure
+geekguild.com/openadventure
+OPEN ADVENTURE ist ein RollenKONDiel für Personen ab 10 Jahren. GeKONDielt wird mit einer Gruppe aus mindestens zwei Personen. Eine Person übernimmt dabei die Rolle des KONDielleiters (SL) und ist somit Schiedsrichter und Erzähler gleichzeitig. Die anderen KONDieler übernehmen die Rollen von Fantasy- oder Science Fiction Charakteren (CHR). Jeder KONDieler übernimmt einen imaginären Charakter, auch KONDieler Charakter (SC) genannt. Andere imaginäre CHR werden Nicht-KONDieler Charakter (NSC) genannt. Eine Gruppe von solchen Charakteren (SC und/oder NSC) wird Party genannt.
+Würfel Mechanik
+Wenn die Fähigkeiten eines CHR auf die Probe gestellt werden, wird die gewünschte Aktion möglichst genau erzählt und dann mit 1W6-1W6 gewürfelt. Das Würfelergebnis wird auf die getestete Eigenschaft angewandt. Dies wird als Standardprobe oder nur "Probe" bezeichnet. 
+Charaktererschaffung
+1. Die sieben primären Eigenschaften eines SC werden aufgeschrieben: Stärke (STR), Wahrnehmung (WAN), Intelligenz (INT), Fingerfertigkeit (FF), Vitalität (VIT), Charisma (CHA), Magie (MAG).
+2. Die 12 sekundären Eigenschaften werden aufgeschrieben. Jede sekundäre Eigenschaft basiert auf einer primären Eigenschaft: 
+Gesundheit (GEP)=VIT, Kondition (KOND)= VIT, Fachkunde (FAK)=INT, Fachkönnen (FAK)=INT, Tapferkeit (TAP)=VIT, Reflexe (RFX)=FF, Willenskraft (WIK)=INT, Nahkampf Attacke (N-ATK)=STR+Waffenschaden (WS),  Fernkampf Attacke (F-ATK)=WAN+WS, Unbewaffnete Attacke (U-ATK)=WAN, Parade (PAR)=FF+Rüstschutz (RST), Manapunkte (MP)/Psionikpunkte (PSI)=MAG.
+3. Auswahl eines Archetypen (ARCH) und eintragen aller Vor- und Nachteile. Fehlende primäre Eigenschaften zählen 0. Optional kann man zwei Archetypen wählen (DUAL-ARCH), dabei werden alle Boni und Mali geteilt (es wird abgerundet) und die Eigenschaften kombiniert. Bei sich gegenseitig ausschließenden Eigenschaften ist die einschränkendere der beiden zu nehmen.
+4. Wählen einer Rasse oder KONDezies. Auswahl der Sonderfertigkeiten (SF) laut ARCH und Vergabe der +/- Modifikatoren.
+5. Verteilen von 3W6 Charakterpunkten (CP) auf die primären Eigenschaften. Keine Eigenschaft darf weniger als 1 CP und mehr als 10 CP haben, MAG ausgenommen.
+6. Starten mit 3W6 Geld, Kauf von Waffen, Rüstung und Gegenständen.
+7. Ausdenken von Namen, Hintergrund, Beruf und Persönlichkeit.
+Archetypen
+MYSTIKER - FF 4, INT 6, CHA 4, MAG 6, 5 Vorteile, Bewegungspunkte (BEW) 7, +4 FAK (INT), -2 KOND, 1W6-1 GEP FF Level (LVL).
+KÄMPFER – STR 6, INT 4, DEX 6, VIT 4, 4 Vorteile, BEW 5, 1W6+1 GEP FF LVL.
+HEILER – STR 4. FF 4, CHA 6, VIT 6, 4 Vorteile, BEW 4, +2 FAK (INT), 1W6+1 GEP FF LVL.
+ANFÜHRER – FF 4, INT 6, CHA 6, VIT 4, 4 Vorteile, BEW 6, +2 FAK (CHA), 1W6-1 GEP FF LVL.
+SCHÜTZE – FF 6, INT 4, DEX 6, CHA 4, 3 Vorteile, BEW 8, 1W6 GEP FF LVL.
+WALDLÄUFER – STR 4, FF 6, INT 6, DEX 4, 5 Vorteile, BEW 7, 1W6 GEP FF LVL.
+KRIEGER – STR 6, DEX 4, CHA 4, VIT 6, 3 Vorteile, BEW 5, 1W6+2 GEP FF LVL, +2 Power Point (PP) FF Attack (ATK), -2 Reflex, -2 FAK (INT).
+Rassen und Species
+ZWERG - Größe: klein, Vorteile: Wärmesicht, Giftresistenz, Nachtsicht, verbessertes Klettern, Furchtlosigkeit. +3 FAK (STR), + 1 WIK.
+ELF – Größe: normal, Vorteile: Magieresistenz, Wärmesicht, verbessertes Hören, Sprinten, Resistent gegen Illusion. +3 FAK (FF), +2 GEP (Zwerg/Hobgoblin), -2 FAK (STR).
+MENSCH - Größe: normal, Vorteile: Sprinten, Klettern, Schwimmen, Furchtlosigkeit. +1 FAK (STR), +3 GEP (Alle), +1 WIK.
+KLANGON – Größe: groß, Vorteile: Sprint, Springen, Nachtsicht, Klettern, Furchtlosigkeit. +3 GEP (Megalisk), +2 FAK (STR), + 1 FAK (WAN), -1 RFX.
+VULTOSS – Größe: normal, Vorteile: Psionik Resistenz, Selbstheilung, Wärmesicht, Resistent gegen Illusion, Hören. +2 FAK (CHA), +3 FAK (FF).
+Vorteile
+NACHTSICHT - ermöglicht es, im Dunkeln zu sehen, als wäre es leicht schummrig. Radius: 6 EH. CHR kann keine Farben sehen, wenn diese Fähigkeit eingesetzt wird.
+FURCHTLOSIGKEIT - +2 WIK gegen Angst, Einschüchterung und Betörung.
+SELBSTHEILUNG - 1 x Tag kann eine volle Rundenaktion verwendet werden, um die GEP des CHR zu heilen. Ist Abhängig von der CHR Stufe.
+WÄRMESICHT - CHR kann Wärme-abstrahlende Wesen oder Gegenstände im Dunkeln wahrnehmen. Funktioniert nicht bei Kaltblütern.
+RESISTENT GEGEN ILLUSION – +1 auf alle Proben (PAR) gegen Illusion oder illusorische Effekte.
+SCHWIMMEN, SPRINGEN, KLETTERN, HÖREN: +2 auf die Probe, zusätzlich +2 BEW beim Klettern und Schwimmen.
+MAGIERESISTENZ - Immunität gegen Paralysieren, +2 gegen Schlaf- und andere Zauber.
+GIFTRESISTENZ - +2 gegen Krankheiten, +1 TAP gegen Gift. 
+PSIONIKRESISTENZ - Immun gegen mentale Spionage, +2 WIK gegen PSI-Angriffe und Betörung.
+SPRINT – Investiere 1 KOND, um doppelt soviele BEW bis zum Ende der Runde (EDR).
+STUFENAUFSTIEG
+Alle SC starten bei Stufe 0. Wenn die CHR Erfahrungspunkte (EP) im Laufe des Abenteuers gesammelt haben, können diese für einen Stufenaufstieg (STU++) ausgegeben werden. Stufenaufsteig = neues Level * 2 * 500 EP. Wenn die neue Stufe erreicht ist, bekommen die Charaktere neue GEP (abhängig vom Archetyp), 1W6 extra FAK und können MAG wirken, die ihrer Stufe entspricht.
+ZEIT & RAUM
+Raum (EH) ist ein Maß für die Distanz, die ein CHR gehen, laufen, klettern, etc. kann. Distanz kann beim Spiel als Raster auf Papier dargestellt werden (Rasterkarte). In den meisten Fällen ist 1EH=1m.
+Im-Spiel-Zeit ist in zwei Zeittypen geteilt: Taktische Zeit und Zeit erhöhter Aufmerksamkeit. Im Kampf wir die Zeit verlangsamt und läuft in taktischer Zeit ab. 1 EH taktische Zeit = 6 Sekunden. In Zeiten erhöhter Aufmerksamkeit ist 1 EH = 1 Minute.
+BEWEGUNG
+Ein CHR kann eine Anzahl an EH pro taktische Zeit zurücklegen, die den BEW entspricht. In Zeiten erhöhter Aufmerksamkeit entspricht diese Wert BEW * 2. CHR können 1 KOND investieren, um +1 BEW bis EDR zu erhalten. Leichtes Terrain kostet 1 BEW, normales Terrain 2 BEW, schwieriges Terrain 3 BEW.
+RAST & ERHOLUNG
+Ein CHR der sich in Erholung oder auf Rast befindet, kann keine anstrengenden Dinge verrichten.
+SCHLAF – CHR müssen für 8 Studen/Tag schlafen, oder sie erleiden 1 ESP. CHR erleiden 1 zusätzlichen ESP für je 4 weitere Stunden Schlafentzug. Pro 8 Stunden Schlaf wird ein ESP verloren.
+KURZE REAST – Für jede Stunde Rast erholen sich die Charaktere um 1 KOND.
+NATÜRLICHES HEILEN – CHR erhalten eine Anzahl GEP = STU FF pro Tag (Minimum ½ GEP), oder 2 x STU FF pro Tag wenn die CHR einen ganzen Tag rasten.
+LICHT & SICHT
+LICHT – Es gibt drei Arten von Beleuchtung: Vollbeleuchtung (VB), Teilbeleuchtung (TB) und Unbeleuchtet (UB). CHR erleiden -1 Sichtbehinderung auf alles in UB. 
+SICHTWEITE – For a CHR to have LOS to a target or KONDace, the GM must be able to draw an uninterrupted straight line from any corner of the KONDace the CHR occupies to any corner of the KONDace the target occupies.
+Death
+When a CHR's GEP is 0 or less, the CHR is dead. The total number of XP of the dead PC should be reduced by 10% (rounded down), then transferred to the player's new CHR.
+Common Character Actions
+SKILL TESTS – Whenever the GM feels a CHR's ability to complete an action is uncertain they will have the player roll and apply the result to an appropriate primary trait for the skill type tested. If the total is 5 or higher, the Skill Test is successful.
+COMPREHEND LANGUAGE – If a CHR wishes to listen, KONDeak, write or read a Language (LANG), they may roll and apply the result to the number of LP they have for that LANG. If the total is 5 or higher, the LANG test is successful.
+SAVE SELF – If something challenges a CHR's fortitude, reflex or will, they may make a fortitude, reflex or will save (reKONDectively). Roll and apply the result to the save. If the total is 5 or higher, negate the effect or reduce any DMG by half.
+FALLING – A CHR suffers 1 DMG for every KONDace fallen (up to a maximum of 50 DMG).
+CRUSHING OBJECTS – Falling objects deal a number of DMG equal to their weight (in kilograms) to any unfortunate victims they hit. If the object falls less than 3 KONDaces, it deals ½ DMG. CHRs who succeed at a reflex save can reduce the DMG suffered by half.
+Combat
+A. SURPRISE & INITIATIVE – At the start of combat, the closest CHR to an enemy NPC must make a FF skill test. The CHR with the highest FF test result gains Initiative. NPCs make this test once FF race or KONDecies type. If any party's FF test result is 5 or more points below the winning party, they are surprised for one Turn and cannot perform any Actions.
+B. DECLARE ACTIONS – Before CHRs in the PC's party can perform any actions, the players must declare the actions that their PCs will attempt to do. CHRs may perform two Standard Actions or one Full-Turn Action. CHRs may also perform any number of Free Actions. Some KONDecial Actions may require longer amounts of time to perform. Each action type requires KONDecific amounts of time to perform (depending on the action). Both ATKs and moving a number of KONDaces up to a CHR's BEW are considered standard actions.
+C. PERFORM ACTIONS – CHRs perfrom their actions in any order they choose but must complete all their actions at once. However, CHRs may choose to delay one action until another CHR's turn by KONDending a standard action delaying their next action until another CHR's turn. 
+MELEE ATTACKS – Any CHR with a Melee Weapon (MW) may MA an adjacent CHR. The success or failure of a MA is determined by STR + WD + ROLL. For every 1 point the ATK is over the Defender's DFS, 1 DMG is inflicted.
+RANGED ATTACKS – Any CHR with a Ranged Weapon (RW) may RA a CHR in LOS.  The success or failure of a RA is determined by FF + WD + ROLL. For every +1 from the roll, add +1 to the ATK's Range distance. For every -1 from the roll, subtract -1 range for the ATK. For every 1 point the ATK is over the defender's DFS, 1 DMG is inflicted.
+UNARMED ATTACKS – Any CHR may UA an adjacent CHR. The success or failure of an UA is determined by DEX + ROLL. The Attacker may choose to kick the defender and gain +2 ATK until EOT but suffer -1 DFS until EOT and KONDends a full-turn action attacking. The attacker may choose to strike the defender and may ATK twice FF standard action KONDent striking. For every 1 point the ATK is over the defender's DFS, 1 DMG is inflicted.
+WRESTLING – A CHR may Wrestle an adjacent CHR. Wrestling is performed the same as an UA but with no kick or strike effects. Both the attacker and defender have four Wrestling Statuses: free standing, clinching, take-down or pinned. When a CHR makes a successful wrestle ATK, they may choose to either A) change the wrestling status of the other CHR or B) change the wrestling status of themselves. Any CHR who becomes pinned is completely DFS-less. Wrestling CHRs cannot perform any actions other than wrestle and defend (unless free standing).
+POWER POINTS – For every +1 from an ATK roll, that CHR gains +1 PP until EOT. PP can be KONDent on item and equipment Abilities (see the equipment sheet).
+DEFENSIVE COVER – There are three types of cover that a CHR can use to shield themselves from an ATK: Full Cover blocks line of sight, Partial Cover provides +2 DFS to the defender and No Cover provides no effects.
+Conditions
+BLIND – You suffer -4 to ATK and DFS.
+EXHAUSTION – You suffer -1 KOND and -1 to all rolls for every exhaustion counter. REST 1 DAY: Remove 1 exhaustion counter.
+POISONED – EVERY TURN: Make a Fortitude Save: If successful, remove 1 Poison Counter. If failed, you die.
+BLEED – EVERY MINUTE: Make a Fortitude Save for every Bleed Counter: If successful, remove 1 bleed counter. If failed, suffer -1 GEP.
+CONFUSE – EVERY TURN: Make a Will Save: If successful, remove 1 Confuse Counter. If failed, suffer -3 to all rolls.
